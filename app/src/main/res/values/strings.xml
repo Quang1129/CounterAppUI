@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CounterUI</string>
+    <string name="button">Click</string>
+</resources>
